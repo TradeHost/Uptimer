@@ -18,7 +18,7 @@ An Open Sourced Uptime Monitor Linked Through Discord, You Can Monitor Your Site
  - Blog System
  - Online Ticket System
  - Admin Panel
- - Timeout System
+ - Ping Interval System
 
 # Links
 [Demo](/)<br>
